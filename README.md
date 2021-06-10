@@ -49,12 +49,12 @@
 - 기간 : 2021.04 ~ 2021.8
 - 안드로이드 파트, 서버 협업, DB 협업, 웹 협업
 
-### Plan N GO
+### PlanNGO(https://drive.google.com/file/d/1ZE7qnsW3PVVL_LaIxZ6hjBSjpPrJZXFR/view?usp=sharing)
 - 소개: 여행 플래너 사이트 (학원 프로젝트)
 - 기간 : 2020.12 ~ 2021.1
 - 팀장역할, 웹, 서버, DB
 
-### 결합게임
+### 결합게임(https://drive.google.com/file/d/1tH9yksF0_EqtdL20EO0rszJ0UuWmJuGt/view?usp=sharing)
 - 소개: 더 지니어스 프로그램에서 나온 결합게임을 모바일오 제작 (개인 프로젝트)
 - 기간: 2017.06 ~ 2018.01
 - 안드로이드, php, DB
