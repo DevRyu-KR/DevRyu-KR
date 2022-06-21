@@ -7,7 +7,7 @@
 - GitHub: [github.com/DevRyu-KR](https://github.com/DevRyu-KR)
 
 ## Career
-- JinaSoftHC (2021 ~ )
+- JinaSoftHC (2021.04 ~ 2021.09)
 
 ## Training
 - Ezen academy (2020.09 ~ 2021.02, 6M)
