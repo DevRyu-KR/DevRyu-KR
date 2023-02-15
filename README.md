@@ -47,7 +47,7 @@
 
 ## 프로젝트 이력
 
-### STARPLANET
+### [STARPLANET](https://play.google.com/store/apps/details?id=inc.rowem.passicon&hl=ko&pli=1)
 - 소개: 아이돌 인기투표 앱
 - 기간 : 2022.07 ~ now
 - 안드로이드 파트 : Kotlin, java
