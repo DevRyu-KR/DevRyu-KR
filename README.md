@@ -8,6 +8,7 @@
 
 ## Career
 - JinaSoftHC (2021.04 ~ 2021.09)
+- Rowem (2022.07 ~ now)
 
 ## Training
 - Ezen academy (2020.09 ~ 2021.02, 6M)
