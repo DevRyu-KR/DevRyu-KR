@@ -2,7 +2,7 @@
 ---
 ## Introduce
 - name : 유경욱
-- interest : 농구, 당구, 그림, 게임
+- interest : 보드, 헬스, 농구, 당구, 그림, 게임
 - Email: cube.ryu21@gmail.com
 - GitHub: [github.com/DevRyu-KR](https://github.com/DevRyu-KR)
 
@@ -26,6 +26,8 @@
 - Java
 - MVVM Pattern
 - DataBinding
+- Flutter/Dart
+- Compose
 
 ### Backend
 - nodejs
@@ -44,6 +46,9 @@
 - 버전관리 : Github
 
 ## 프로젝트 이력
+
+### STARPLANET
+- 소개: 아이돌 인기투표 
 
 ### Flexy(가제)
 - 소개: 명품 중고거래 서비스
