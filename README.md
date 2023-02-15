@@ -48,7 +48,15 @@
 ## 프로젝트 이력
 
 ### STARPLANET
-- 소개: 아이돌 인기투표 
+- 소개: 아이돌 인기투표 앱
+- 기간 : 2022.07 ~ now
+- 안드로이드 파트 : Kotlin, java
+- Folable 대응
+- 고정크기 비율 전환
+- paging 처리 개선
+- ConcatAdapter 적용
+- Youtube Player 최신화 및 오류 처리 적용
+
 
 ### Flexy(가제)
 - 소개: 명품 중고거래 서비스
