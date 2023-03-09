@@ -10,6 +10,7 @@
 - JinaSoftHC (2021.04 ~ 2021.09)
 
 ## Training
+- [Google Compose Camp](https://gdg.community.dev/events/details/google-gdg-korea-android-presents-devfest-2022-android-korea-compose-camp/) (2022.11.07 ~ 2022.12.12)
 - Ezen academy (2020.09 ~ 2021.02, 6M)
 -- Java, Spring, mysql, OracleDB, MVC pattern
 - Team Nova (2016.10 ~ 2018.01, 1Y 3M)
@@ -23,10 +24,9 @@
 ### Android
 - Kotlin
 - Java
-- MVVM Pattern
-- DataBinding
-- Flutter/Dart
-- Compose
+- MVVM Patter
+- Flutter/Dart (기초)
+- Compose (기초)
 
 ### Backend
 - nodejs
