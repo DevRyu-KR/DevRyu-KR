@@ -56,7 +56,7 @@
 - paging 처리 개선
 - ConcatAdapter 적용
 - Youtube Player 최신화 및 오류 처리 적용
-
+- ScrollView 화면 떨림 개선
 
 ### Flexy(가제)
 - 소개: 명품 중고거래 서비스
@@ -93,4 +93,4 @@
 <br/>
 
 ----
-last modify : 2021.06.10
+last modify : 2023.03.09
