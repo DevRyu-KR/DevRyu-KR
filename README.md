@@ -2,7 +2,6 @@
 ---
 ## Introduce
 - name : 유경욱
-- interest : 보드, 헬스, 농구, 당구, 그림, 게임
 - Email: cube.ryu21@gmail.com
 - GitHub: [github.com/DevRyu-KR](https://github.com/DevRyu-KR)
 
@@ -56,7 +55,7 @@
 - paging 처리 개선
 - ConcatAdapter 적용
 - Youtube Player 최신화 및 오류 처리 적용
-- ScrollView 화면 떨림 개선
+- 유지보수
 
 ### Flexy(가제)
 - 소개: 명품 중고거래 서비스
@@ -64,7 +63,7 @@
 - 안드로이드 파트, 서버 협업, DB 협업, 웹 협업
 - 개발 중단
 
-### FineEV
+### [FineEV](https://play.google.com/store/apps/details?id=com.finetech.fineevapp&hl=ko)
 - 소개: 전기차 충전단말기 연동 앱
 - 기간 : 2021.05 ~ 2021.9
 - 안드로이드 파트, 유지보수, SQLite -> 서버DB로 이전, 프로토콜 최신화
