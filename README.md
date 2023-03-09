@@ -66,7 +66,7 @@
 ### [FineEV](https://play.google.com/store/apps/details?id=com.finetech.fineevapp&hl=ko)
 - 소개: 전기차 충전단말기 연동 앱
 - 기간 : 2021.05 ~ 2021.9
-- 안드로이드 파트, 유지보수, SQLite -> 서버DB로 이전, 프로토콜 최신화
+- 안드로이드 파트, BLE, 유지보수, SQLite -> 서버DB로 이전, 프로토콜 최신화
 
 ### Remap
 - 소개: 부동산 재개발/건축 정보 앱
