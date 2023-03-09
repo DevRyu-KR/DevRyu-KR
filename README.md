@@ -55,7 +55,7 @@
 - paging 처리 개선
 - ConcatAdapter 적용
 - Youtube Player 최신화 및 오류 처리 적용
-- 유지보수
+- Amplitude 적용 
 
 ### Flexy(가제)
 - 소개: 명품 중고거래 서비스
