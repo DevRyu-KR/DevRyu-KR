@@ -24,7 +24,7 @@
 ### Android
 - Kotlin
 - Java
-- MVVM Patter
+- MVVM Pattern
 - Flutter/Dart (기초)
 - Compose (기초)
 
