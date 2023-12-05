@@ -6,7 +6,7 @@
 - GitHub: [github.com/DevRyu-KR](https://github.com/DevRyu-KR)
 
 ## Career
-- Rowem (2022.07 ~ now)
+- Rowem (2022.07 ~ 2023.12)
 - JinaSoftHC (2021.04 ~ 2021.09)
 
 ## Training
@@ -41,21 +41,32 @@
 - JS
 
 ## etc.
-- 디자인 협업 : Zeplin / Figma
+- 디자인 협업 :  Adobe / Figma / Zeplin
 - 버전관리 : Github
 
 ## 프로젝트 이력
 
 ### [STARPLANET](https://play.google.com/store/apps/details?id=inc.rowem.passicon&hl=ko&pli=1)
 - 소개: 아이돌 인기투표 앱
-- 기간 : 2022.07 ~ now
+- 기간 : 2022.07 ~ 2023.12
 - 안드로이드 파트 : Kotlin, java
-- Foldable 대응
-- 고정크기 비율 전환
-- paging 처리 개선
-- ConcatAdapter 적용
-- Youtube Player 최신화 및 오류 처리 적용
-- Amplitude 적용 
+- 인수인계 23.12
+- 프로젝트 인수인계 문서 작성 23.11
+- 광고 어뷰징 분석 및 대응 23.10
+- 인앱결제 어뷰징 분석 및 대응 23.09
+- ViewPager -> ViewPager2 변경 및 recyclerVIew 개선 23.08
+- 광고 보상 처리 방식 개선 23.07~23.09
+- 결제 처리 방식 개선 23.07~23.08
+- target SDK 33 update 23.07~23.08
+- 동영상 광고 업데이트(tapjoy) 23.06
+- 오디션 신청 기능 추가 23.06
+- webview 방청권 신청 연동 23.04~23.05
+- Amplitude 적용 23.01~23.06
+- Youtube Player 최신화 및 오류 처리 적용 23.01
+- ConcatAdapter 적용 22.11~22.12
+- paging 처리 개선 22.11~22.12
+- 고정UI -> 비율UI 전환 22.10~22.11
+- Foldable 대응 22.09
 
 ### Flexy(가제)
 - 소개: 명품 중고거래 서비스
@@ -87,6 +98,12 @@
 - 소개: 더 지니어스 프로그램에서 나온 결합게임을 모바일로 제작 (개인 프로젝트)
 - 기간: 2017.06 ~ 2018.01
 - 안드로이드, php, DB
+
+## Conference
+- DroidKnights 2023 (23.09.12)
+- I/O Extended 2023 Seoul (23.08.26)
+- I/O Extended 2023 Incheon (23.07.29)
+- GDG Songdo devfest 19 (19.11.30)
 
 <br/>
 <br/>
