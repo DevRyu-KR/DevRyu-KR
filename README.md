@@ -6,6 +6,7 @@
 - GitHub: [github.com/DevRyu-KR](https://github.com/DevRyu-KR)
 
 ## Career
+- Fanmaum (2024.04 ~ now)
 - Rowem (2022.07 ~ 2023.12)
 - JinaSoftHC (2021.04 ~ 2021.09)
 
@@ -45,6 +46,13 @@
 - 버전관리 : Github
 
 ## 프로젝트 이력
+
+### [FANPLUS](https://play.google.com/store/apps/details?id=com.photocard.allstar&hl=ko&gl=US)
+- 소개: 연예인 투표 앱
+- 기간 : 2024.04 ~ now
+- 안드로이드 파트 : Kotlin, java
+- 홈 화면 개편 24.05~24.07
+- 웹뷰 이미지 업로드 24.04
 
 ### [STARPLANET](https://play.google.com/store/apps/details?id=inc.rowem.passicon&hl=ko&pli=1)
 - 소개: 아이돌 인기투표 앱
